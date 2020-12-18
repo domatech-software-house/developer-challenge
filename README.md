@@ -1,18 +1,23 @@
 # Desafio técnico para desenvolvedores
 
-Construir uma aplicação Front-end (HTML, CSS e JavaScript), onde deverá consumir os dados da API do [VIA CEP](https://viacep.com.br/) e disponibilizar as seguintes funcionalidades:
+Construir uma ***Agenda***, onde deverá disponibilizar as seguintes funcionalidades:
 
-- Campo de cep;
-- Buscar e exibir os dados encontrados;
+- Autenticação (email/senha);
+- Cadastrar/Listar/Editar/Excluir contato (nome, telefone, email, cep, endereço, etc.);
 
 Alguns requisitos:
 
 - Deve ser uma aplicação nova;
 - A solução deve estar em um repositório público do GitHub;
+- Os dados do endereço devem ser buscados na API do [VIA CEP](https://viacep.com.br/);
+- Utilizar algum framework front-end (React.js, Vue.js, entre outros);
+- Utilizar o Express.js como framework back-end;
+- Utilizar banco de dados de sua preferência (MySQL, Postgres, MongoDB, Redis, etc.);
 
 Diferenciais (itens não obrigatórios):
 
-- Utilizar algum framework front-end (React.js, Vue.js, Angular 2+, entre outros);
+- Utilizar TDD (Test Driven Development);
+- Utilizar docker;
 - Fazer deploy da aplicação;
 
 <br>
