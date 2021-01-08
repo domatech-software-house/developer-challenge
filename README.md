@@ -2,7 +2,6 @@
 
 Construir uma ***Agenda***, onde deverá disponibilizar as seguintes funcionalidades:
 
-- Autenticação (email/senha);
 - Cadastrar/Listar/Editar/Excluir contato (nome, telefone, email, cep, endereço, etc.);
 
 Alguns requisitos:
