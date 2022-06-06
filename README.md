@@ -11,7 +11,7 @@ Alguns requisitos:
 - Os dados do endereço devem ser buscados na API do [VIA CEP](https://viacep.com.br/);
 - Utilizar algum framework front-end (React.js, Vue.js, entre outros);
 - Utilizar o Express.js como framework back-end;
-- Utilizar banco de dados de sua preferência (MySQL, Postgres, MongoDB, Redis, etc.);
+- Utilizar banco de dados MongoDB ou Firebase
 
 Diferenciais (itens não obrigatórios):
 
